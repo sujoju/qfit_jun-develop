@@ -1,0 +1,8 @@
+scqubits
+scqubits/core
+scqubits/explorer
+scqubits/io_utils
+scqubits/legacy
+scqubits/tests
+scqubits/ui
+scqubits/utils
